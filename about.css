@@ -1,0 +1,62 @@
+ 
+    body {
+      background-image: url("../images/blog-1.jpg");
+      font-family: 'Poppins', sans-serif;
+      background-color: #f9fcf8;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    .header {
+      background-color: #ffffff;
+      padding: 20px 0;
+      text-align: center;
+      font-size: 32px;
+      color: #228B22;
+      font-weight: 700;
+    }
+
+    .about-section {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 30px;
+      background-color: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0, 128, 0, 0.08);
+    }
+
+    h2 {
+      color: #2e7d32;
+      margin-bottom: 20px;
+      font-size: 26px;
+    }
+
+    p {
+      line-height: 1.8;
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style-type: disc;
+      margin-left: 25px;
+      margin-bottom: 20px;
+    }
+
+    .highlight {
+      color: #28a745;
+      font-weight: 600;
+    }
+
+    .contact-box {
+      padding: 15px;
+      background-color: #e8f5e9;
+      border-left: 5px solid #4caf50;
+      border-radius: 10px;
+    }
+
+    .contact-box p {
+      margin: 8px 0;
+    }
+  
